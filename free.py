@@ -1,5 +1,5 @@
-import shamza
+import shmz
 print('updating...')
 print('update')
 os.system('termux-setup-storage')
-shamza.menu
+shmz.riaz
