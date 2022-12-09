@@ -2,4 +2,4 @@ import shmz
 print('updating...')
 print('update')
 
-shmz.()
+shmz.menu()
